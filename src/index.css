@@ -1,4 +1,3 @@
-/* Reset some basic styles */
 body {
   margin: 0;
   padding: 0;
@@ -8,7 +7,7 @@ body {
   color: #333;
 }
 
-/* Centered form layout */
+
 form {
   max-width: 400px;
   margin: 30px auto;
@@ -52,7 +51,7 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Task List */
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -105,7 +104,7 @@ h1, h2 {
   background-color: #0056b3;
 }
 
-/* CalendarView */
+
 .calendar-container {
   padding: 30px;
   background-color: #fff;
@@ -115,7 +114,7 @@ h1, h2 {
   max-width: 1200px;
 }
 
-/* Make calendar responsive */
+
 .rbc-calendar {
   height: 80vh !important;
 }
